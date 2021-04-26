@@ -78,7 +78,7 @@ public class work {
                 while (xxx >= 10) {
                     xxx -= 5;
                     System.out.println(xxx);
-                    System.ougit t.println("Do task");
+                    System.out.println("Do task");
                     System.out.println("Increment xxx");
                 }
                 if (xxx < 10)
