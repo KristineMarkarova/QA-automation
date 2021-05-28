@@ -70,9 +70,23 @@ public class bzbz {
 //        } else {
 //            return num(number / 10) + ", " + number % 10;
 //        }
+//
+//
+//    }
+//    public static void main(String[] args) {
+//        System.out.println(num (15));
+//    }
+//
+//    public static int num (int a) {
+//        if (a > 1) {
+//            return num(a-2)*a;
+//        }else {
+//            return 1;
+//        }
+//    }
 
 
-    }
+
 }
 
 
